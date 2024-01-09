@@ -36,4 +36,4 @@ Welcome to E-Start, a personalized Chrome start page designed to enhance your br
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to create an issue or submit a pull request.
 
 ## Thank-You
-Thank you for visiting my repository and exploring my portfolio website!
+Thank you for visiting my repository and exploring my Webpage!
